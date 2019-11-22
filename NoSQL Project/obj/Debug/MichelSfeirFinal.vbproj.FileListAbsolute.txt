@@ -1,0 +1,5 @@
+C:\Users\abc\source\repos\MichelSfeirFinal\obj\Debug\MichelSfeirFinal.vbprojAssemblyReference.cache
+C:\Users\abc\source\repos\MichelSfeirFinal\obj\Debug\MichelSfeirFinal.Resources.resources
+C:\Users\abc\source\repos\MichelSfeirFinal\obj\Debug\MichelSfeirFinal.vbproj.GenerateResource.cache
+C:\Users\abc\source\repos\MichelSfeirFinal\obj\Debug\MichelSfeirFinal.vbproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\MichelSfeirFinal\bin\Debug\MichelSfeirFinal.exe.config
